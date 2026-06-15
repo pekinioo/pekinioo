@@ -1,20 +1,5 @@
 <h1 align="center">Pekinio</h1>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amfjrdev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🇫🇷  website developer based in **France**
-- 🔧 Specialized in **website Development**
-- 🧱 Experienced with **Clean Architecture**
-- 🚀 Building Clean Websites and database structure
-- 💬 Ask me about **Website and MYSQL DataBase**
-
 📫 **Contact:**  
 pekinio.cnt@gmail.com
 
@@ -35,6 +20,9 @@ pekinio.cnt@gmail.com
 <a href="mailto:pekinio.cnt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<p align="left">
+<a href="/discord.gg/kr7hhv84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="discord.gg/kr7hhv84" height="30" width="40" /></a>
+</p>
 
 </p>
 
