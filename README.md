@@ -1,5 +1,4 @@
-<h1 align="center">Pekinio</h3>
-<h3 align="center">TKT</h3>
+<h1 align="center">It's Pekinio</h3>
 
 - 🔭 I’m currently working on **some projects**
 
