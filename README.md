@@ -20,10 +20,6 @@ pekinio.cnt@gmail.com
 <a href="mailto:pekinio.cnt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<p align="left">
-<a href="/discord.gg/kr7hhv84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="discord.gg/kr7hhv84" height="30" width="40" /></a>
-</p>
-
 </p>
 
 ---
