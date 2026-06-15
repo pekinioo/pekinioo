@@ -1,14 +1,15 @@
-<h1 align="center">Pekinio(Alias The Goat)</h3>
-<h3 align="center">TKT(16 years old)</h3>
+<h1 align="center">Pekinio</h3>
+<h3 align="center">TKT</h3>
 
 - 🔭 I’m currently working on **some projects**
 
-- 👨‍💻 All of my projects are available at [pekinio.vercel.app](pekinio.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](pekinio.vercel.app)
 
 - 💬 Ask me about **Discord Bots/Websites/......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/UBzqu3Gnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UBzqu3Gnaf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
