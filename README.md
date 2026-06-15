@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **some projects**
 
-- 👨‍💻 All of my projects are available at [pekinio.vercel.app](My Portfolio)
+- 👨‍💻 All of my projects are available at [pekinio.vercel.app](pekinio.vercel.app)
 
 - 💬 Ask me about **Discord Bots/Websites/......**
 
