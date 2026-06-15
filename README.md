@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Younes orn</h1>
-<h3 align="center">A Developer</h3>
+<h1 align="center">Hi 👋, I'm Pekinio</h1>
 
 
 <p align="center">
@@ -32,10 +31,6 @@ pekinio.cnt@gmail.com
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://instagram.com/younes_orn">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 <a href="mailto:pekinio.cnt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
